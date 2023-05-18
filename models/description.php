@@ -16,5 +16,5 @@ class description{
         }elseif($_name == 'giochi'){
             $this->game = $_value;
         };
-    }
+    } 
 }
